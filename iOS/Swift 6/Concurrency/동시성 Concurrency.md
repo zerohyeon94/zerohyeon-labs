@@ -4,25 +4,15 @@ Swift 6에서는 **Concurrency(동시성)**에 대해 훨씬 더 엄격해졌기
 
 ## ✅ 에러 원인 요약
 
-python
-
-복사편집
-
 `Static property 'sampleRateAvg' is not concurrency-safe because it is nonisolated global shared mutable state`
 
 ### 의미:
 
 - `sampleRateAvg`라는 `static` 프로퍼티가 **전역(shared mutable state)** 으로 간주되는데,
-    
 - 이것이 여러 쓰레드에서 **동시에 접근될 수 있음에도 안전하지 않다(concurrency-safe하지 않다)**는 경고입니다.
-    
 - Swift 6의 **Strict Concurrency Checking**으로 인해 이 에러가 발생한 것입니다.
-    
-
 ---
-
 ## 🔍 왜 Swift 5에서는 괜찮았는데 Swift 6에서는 안 될까?
-
 Swift 5에서는 동시성 체크가 제한적이었고, `@unchecked Sendable`, `@MainActor` 등이 **선택적**이었습니다.  
 Swift 6에서는 `-enable-upcoming-feature StrictConcurrency=complete`가 자동으로 활성화되면서,  
 동시성 문제 가능성이 있는 **모든 전역 mutable 상태를 제한**합니다.
