@@ -1,0 +1,118 @@
+## 📄 `AppDelegate.swift`란?
+
+- 앱의 **전반적인 생명주기와 시스템 이벤트**를 처리하는 클래스입니다.
+- iOS 13부터는 `SceneDelegate`가 일부 책임을 나눠 갖지만, 여전히 중요한 초기 설정 지점입니다.
+- `UIApplicationDelegate` 프로토콜을 채택해서 앱 실행 흐름을 처리합니다.
+
+---
+
+## 🧱 주요 구성 요소 설명
+
+```swift
+import UIKit
+```
+
+UIKit 프레임워크를 불러옵니다.  
+UIKit은 iOS 앱의 UI를 구성하는 핵심 프레임워크입니다.
+
+---
+
+```swift
+@main 
+class AppDelegate: UIResponder, UIApplicationDelegate {
+```
+
+- `@main`: 앱의 **진입점(Entry Point)**임을 표시합니다.
+- `UIResponder`: 이벤트 처리 체인의 기본 클래스
+- `UIApplicationDelegate`: 앱 생명주기와 이벤트를 처리하는 프로토콜
+
+---
+
+## ✅ 함수별 설명
+
+### 1. `application(_:didFinishLaunchingWithOptions:)`
+
+```swift
+func application(
+  _ application: UIApplication,
+  didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
+) -> Bool
+```
+
+- 앱이 **처음 실행될 때 호출**됩니다.
+- 초기 설정(예: Firebase, SDK 설정, 로깅 등)을 여기에 구현합니다.
+- `true`를 반환하면 앱 실행 계속됨
+
+> ✅ 앱이 시작된 후의 최초 진입점이자, 가장 중요한 함수입니다.
+
+---
+
+### 2. `configurationForConnecting` (iOS 13+)
+
+```swift
+func application(
+  _ application: UIApplication,
+  configurationForConnecting connectingSceneSession: UISceneSession,
+  options: UIScene.ConnectionOptions
+) -> UISceneConfiguration
+
+```
+
+- **새로운 Scene (창)**이 생성될 때 호출됩니다.
+- 다중 창을 지원하는 앱(iPad 등)에서 사용됩니다.
+- 보통 `SceneDelegate`와 연동되어 동작합니다.
+
+> ✅ 대부분의 일반 앱에서는 수정할 필요가 없습니다.
+
+---
+
+### 3. `didDiscardSceneSessions`
+
+```swift
+func application(
+  _ application: UIApplication,
+  didDiscardSceneSessions sceneSessions: Set<UISceneSession>
+)
+```
+
+
+- 사용자가 **멀티 윈도우에서 하나의 Scene을 닫았을 때** 호출됩니다. 
+- 해당 Scene에 사용하던 리소스를 정리하는 데 사용
+
+> ✅ 거의 사용되지 않으며, 시스템이 자동 관리합니다.
+
+---
+
+## 💡 iOS 13 이후 변화
+
+|iOS 버전|앱 구성 방식|
+|---|---|
+|iOS 12 이하|AppDelegate에서 모든 생명주기 처리|
+|iOS 13 이상|AppDelegate + SceneDelegate 분리됨|
+
+즉,
+- `AppDelegate`: 앱 전체 수준의 설정, 초기 진입
+- `SceneDelegate`: 화면 수준(UIWindow, ViewController 구성 등)
+
+> 하지만 대부분의 단일 화면 앱에서는 **SceneDelegate를 제거하고 AppDelegate만 사용하는 방식**도 널리 쓰입니다.
+
+---
+## ✍️ 정리 요약표
+
+|함수명|설명|자주 수정 여부|
+|---|---|---|
+|`didFinishLaunchingWithOptions`|앱 초기 실행 시 설정|✅ 자주 사용|
+|`configurationForConnecting`|새 Scene(창) 생성 시 설정|❌ 거의 사용 X|
+|`didDiscardSceneSessions`|Scene이 제거될 때 리소스 정리|❌ 거의 사용 X|
+
+---
+
+## ✅ 실제 사용 예시
+
+```swift
+func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: ...) -> Bool {
+    FirebaseApp.configure()
+    AppTheme.apply()
+    return true
+}
+```
