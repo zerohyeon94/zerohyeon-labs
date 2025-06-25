@@ -36,11 +36,21 @@ Apple은 기본적으로 **XCTest 프레임워크**를 제공합니다.
 
 ## ✅ 예시: 단위 테스트 코드 (예산 계산)
 
-swift
+```swift
+import XCTest @testable 
+import GagaeApp  
 
-복사편집
-
-`import XCTest @testable import GagaeApp  class BudgetCalculatorTests: XCTestCase {     func testDailyBudgetCalculation() {         let salary: Double = 3000000         let fixedCosts: Double = 1000000         let days: Double = 31          let result = BudgetCalculator.calculateDailyBudget(salary: salary, fixedCosts: fixedCosts, days: days)          XCTAssertEqual(result, 64516.13, accuracy: 0.01)     } }`
+class BudgetCalculatorTests: XCTestCase {     
+	func testDailyBudgetCalculation() {         
+		let salary: Double = 3000000         
+		let fixedCosts: Double = 1000000         
+		let days: Double = 31          
+		let result = BudgetCalculator.calculateDailyBudget(salary: salary, fixedCosts: fixedCosts, days: days)     
+		     
+		XCTAssertEqual(result, 64516.13, accuracy: 0.01)     
+	} 
+}
+```
 
 ---
 
