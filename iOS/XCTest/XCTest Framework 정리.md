@@ -7,7 +7,6 @@
 - 테스트 코드만 따로 타겟(YourAppTests 등)에 작성
     
 - `import XCTest` 후, `XCTestCase`를 상속받아 사용
-    
 
 ---
 
@@ -61,8 +60,8 @@
     
     ```swift
     func testAsyncExample() async throws {
-    let value = await asyncFunc()
-    XCTAssertEqual(value, 10)
+	    let value = await asyncFunc()
+	    XCTAssertEqual(value, 10)
 	}
 	```
     
