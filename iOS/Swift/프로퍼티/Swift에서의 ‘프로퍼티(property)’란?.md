@@ -31,7 +31,6 @@ class Dog {
 - `name`, `age`는 **Dog라는 타입이 가지고 있는 값(프로퍼티)**
     
 - `isPuppy`는 나이에 따라 계산되어 반환되는 **계산 프로퍼티**
-    
 
 ---
 
@@ -42,7 +41,6 @@ class Dog {
 - 실제 데이터를 저장함
     
     - 예: `var name: String`, `let birthYear: Int`
-        
 
 ### 2. **계산 프로퍼티(Computed Property)**
 
@@ -50,7 +48,6 @@ class Dog {
     다른 값이나 연산을 통해 **계산하여 반환**
     
     - 예:
-        
         ```swift
         var age: Int {
 		    return currentYear - birthYear
@@ -74,7 +71,6 @@ class Dog {
     - 필요에 따라 자동으로 계산/변환해줌
         
 - Swift, iOS 개발에서 객체지향 프로그래밍(OOP)의 핵심 요소
-    
 
 ---
 
