@@ -12,7 +12,6 @@
     
 - **DisposeBag**은 여러 Disposable을 **묶어서 보관**하고,  
     이 DisposeBag이 메모리에서 해제될 때 **자동으로 모든 구독을 해지**해줌
-    
 
 ---
 
@@ -30,7 +29,6 @@ observable
     → **이 구독을 disposeBag에 등록**  
     → disposeBag이 deinit(=메모리에서 사라질 때)  
     **→ 등록된 모든 구독(Subscription)이 자동으로 해제(dispose)됨**
-    
 
 ---
 
