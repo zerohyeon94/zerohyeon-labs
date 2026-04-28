@@ -120,3 +120,4 @@ func centralManager(_ central: CBCentralManager, didConnect peripheral: CBPeriph
 | 핵심 개념     | UUID, Service, Characteristic, read/write/notify |
 | 주의 사항     | 권한, 백그라운드 모드, 타이밍, 메모리 누수, 데이터 크기 제한             |
 | 면접 포인트    | 흐름 설명 능력, UUID 이해, notify vs read 구분, 문제 해결 경험   |
+> [[CS 학습 인덱스]]
