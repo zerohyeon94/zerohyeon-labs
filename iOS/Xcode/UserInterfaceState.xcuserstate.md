@@ -61,3 +61,7 @@ git rm --cached path/to/UserInterfaceState.xcuserstate
 - 커밋하지 말고, `.gitignore`에 추가해서 Git의 관리에서 제외하세요.
     
 - 이미 커밋된 적이 있다면 한 번만 삭제/트래킹 해제 후, 앞으로는 git status에 안 뜨게 할 수 있습니다.
+
+---
+
+> [[iOS 학습 인덱스]]

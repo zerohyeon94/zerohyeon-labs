@@ -87,3 +87,7 @@ swift
 |`@MainActor`|메인 쓰레드 한정 접근|UI 관련 값일 때|
 |`actor`|스레드 안전한 공유 객체|비동기 환경|
 |`NSLock`, `DispatchQueue`|수동 락 처리|레거시 대응용 (권장 X)|
+
+---
+
+> [[iOS 학습 인덱스]]

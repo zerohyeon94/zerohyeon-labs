@@ -101,3 +101,7 @@ SwiftUI가 `View`를 **Struct(구조체)**로, UIKit이 `ViewController`를 **Cl
 ## 5. 핵심 결론 (One-Liner)
 
 > "UIKit은 **영속적인 객체(Object)**를 관리하여 화면을 그리고, SwiftUI는 **일시적인 데이터(Value)**를 통해 화면의 상태를 정의한다."
+
+---
+
+> [[iOS 학습 인덱스]]

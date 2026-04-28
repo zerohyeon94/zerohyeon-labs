@@ -90,3 +90,7 @@ UIKit의 UIButton은 여러 스타일이 있습니다.
 > **버튼의 insets는 스타일에 따라 적용 여부가 달라짐!  
 > 정확히 inset을 적용하려면 Button Type을 “Custom”으로 두거나,  
 > iOS 15+에서는 Configuration의 contentInsets 사용을 권장!**
+
+---
+
+> [[iOS 학습 인덱스]]

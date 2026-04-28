@@ -58,3 +58,7 @@ observable
     ViewController에 속한 모든 Rx 구독이 안전하게 종료됨
     
 - 메모리/이벤트 누수 방지에 필수적인 역할
+
+---
+
+> [[iOS 학습 인덱스]]

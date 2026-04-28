@@ -59,3 +59,8 @@ URLSession.shared.dataTask(with: url) { data, _, error in
 |`DispatchQueue.main.asyncAfter`|일정 시간 후 실행|
 |`Date().timeIntervalSince()`|최소 로딩 시간 보장|
 |사용자 경험 측면|“로딩이 있다는 인식”을 도와주는 중요한 UX 요소|
+
+
+---
+
+> [[iOS 학습 인덱스]]

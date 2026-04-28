@@ -45,3 +45,7 @@ self.amount = Int(truncating: entity.amount ?? 0)
 |`Int(exactly:)`|**정확하게 변환 가능한 경우만**|✅ 실패 가능 (nil 반환)|
 
 > 즉, 금액처럼 **반올림/내림이 허용되는 숫자**라면 `truncating:`을 사용하면 됩니다.
+
+---
+
+> [[iOS 학습 인덱스]]

@@ -66,3 +66,7 @@
 - `.scaleAspectFill` + `clipsToBounds = true`는 세트
 - `.scaleAspectFit`은 전체 이미지가 잘리지 않아야 하는 경우 적합 (프로필 사진, 썸네일, 배경 이미지)
 - 아이콘이나 로고 뷰는 .center나 .top 등 정렬 속성 사용
+
+---
+
+> [[iOS 학습 인덱스]]

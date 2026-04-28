@@ -65,3 +65,7 @@ class BudgetCalculatorTests: XCTestCase {
 
 > `File > New > Target... > Unit Testing Bundle`  
 > 또는 `Command + N > Unit Test Case Class` 로 추가할 수 있어요.
+
+---
+
+> [[Home]]

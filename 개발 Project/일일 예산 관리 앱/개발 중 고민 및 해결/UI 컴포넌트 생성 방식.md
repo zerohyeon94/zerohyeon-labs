@@ -266,3 +266,7 @@ class ProfileViewController: UIViewController {
 > 
 > 테스트/DI/스냅샷 검증, 유지보수, SwiftUI 호환성까지 생각하면  
 > **클로저 초기화 방식이 현대 UIKit 개발에서 더 널리 쓰입니다!**
+
+---
+
+> [[Home]]

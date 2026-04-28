@@ -103,3 +103,7 @@ class MyVC: UIViewController {
 - **UI/뷰컨트롤러 내에서 선언적 관리, self 접근 필요 → `lazy var`**
     
 - **명확한 의존성, 불변성, 테스트/DI 중요 → `init` 할당**
+
+---
+
+> [[iOS 학습 인덱스]]

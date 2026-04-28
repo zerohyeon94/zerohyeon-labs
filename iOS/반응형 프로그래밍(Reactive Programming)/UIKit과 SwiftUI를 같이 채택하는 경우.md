@@ -96,3 +96,7 @@ class MainCardViewController: UIViewController {
     
 
 이렇게 중간에 데이터 스트림을 두고 통신하게 만들면, 어떤 프레임워크를 섞어 쓰더라도 스파게티 코드 없이 깔끔하게 앱을 확장해 나갈 수 있습니다.
+
+---
+
+> [[iOS 학습 인덱스]]

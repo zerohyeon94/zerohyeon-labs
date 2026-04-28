@@ -158,3 +158,7 @@
 |버전 & 빌드|앱 업데이트 관리|TestFlight / 앱스토어 구분|
 |Launch Screen|앱 시작화면 제어|UX 및 심사 품질에 영향|
 |Background Modes|BLE 등 백그라운드 기능|iOS 시스템 정책에 따른 제한 해제|
+
+---
+
+> [[iOS 학습 인덱스]]

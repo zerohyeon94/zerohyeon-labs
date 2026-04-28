@@ -121,3 +121,7 @@ NotificationCenter.default.rx.notification(.someEventName)
 | View → View, Manager → VC 등 **간접 통신 가능** | observer 해제 누락 시 의도치 않은 호출 가능 |
 | 다양한 모듈/레이어 연결에 유용                        | 이벤트 흐름이 추적하기 어려울 수 있음         |
 | RxSwift 없이도 매우 유연하게 구현 가능                | 복잡한 상황에서는 로직 관리 어려움           |
+
+---
+
+> [[iOS 학습 인덱스]]

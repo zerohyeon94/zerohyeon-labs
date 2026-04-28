@@ -101,3 +101,7 @@ let fixedCost = FixedCost(context: context)
 ```swift
 let fixedCost = FixedCost(context: context)
 ```
+
+---
+
+> [[iOS 학습 인덱스]]

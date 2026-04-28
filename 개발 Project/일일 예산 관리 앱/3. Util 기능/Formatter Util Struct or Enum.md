@@ -72,3 +72,7 @@ utils.formatCurrencyInput(...)  // ❌ 안 해도 되는 방식
 
 > FormatterUtils는 단순 포맷팅 유틸이므로  
 > ✅ `enum FormatterUtils`가 **가장 명확하고 안전한 선택**입니다.
+
+---
+
+> [[Home]]

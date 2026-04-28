@@ -37,3 +37,7 @@ stateDiagram-v2
     Observe --> Output : 목표 달성 시
     Output --> [*]
 ```
+
+---
+
+> [[AI 학습 인덱스]]

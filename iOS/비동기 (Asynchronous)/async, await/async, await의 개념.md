@@ -193,3 +193,7 @@ let (userResult, postsResult) = await (try user, try posts)
     - 호출할 때는 `await` + `try`
         
     - ViewController에서는 `Task { ... }` 안에서 사용
+
+---
+
+> [[iOS 학습 인덱스]]

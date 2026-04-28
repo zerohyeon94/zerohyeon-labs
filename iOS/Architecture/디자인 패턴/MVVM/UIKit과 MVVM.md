@@ -142,3 +142,7 @@ class TodoViewController: UIViewController, UITableViewDataSource {
 - **가독성**: 역할이 명확해져서 협업/유지보수에 강함
     
 - **의존성 분리**: 네트워크, DB 등 외부 의존성 주입도 ViewModel에서 처리
+
+---
+
+> [[iOS 학습 인덱스]]

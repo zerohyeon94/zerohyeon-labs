@@ -97,3 +97,7 @@ final class ExampleViewModel {
 - 밖에서 실수로 `onNext` 날려버리는 일을 막고
     
 - “이 스트림에 이벤트를 넣을 수 있는 건 ViewModel 내부뿐”이라는 게 보장돼서 구조가 안전해져요.
+
+---
+
+> [[Home]]

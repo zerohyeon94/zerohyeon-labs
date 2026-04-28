@@ -81,3 +81,7 @@ availableTodayLabel.text = "오늘 사용할 수 있는 금액: ₩\(total.forma
 
 > `.formatted()`는 **숫자/날짜를 사람이 읽기 좋은 문자열로 바꾸는 Swift 최신 API**입니다.  
 > UIKit에서도 매우 유용하며, UI 가독성을 높이는 데 큰 도움이 됩니다.
+
+---
+
+> [[iOS 학습 인덱스]]

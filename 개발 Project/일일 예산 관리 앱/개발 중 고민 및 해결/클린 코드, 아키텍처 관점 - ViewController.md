@@ -187,3 +187,8 @@ final class SetupSalaryViewController: BaseViewController {
     private func updateNextButtonState() { ... }
 }
 ```
+
+
+---
+
+> [[Home]]

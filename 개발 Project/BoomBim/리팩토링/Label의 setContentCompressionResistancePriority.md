@@ -77,3 +77,7 @@ label.setContentCompressionResistancePriority(.required, for: .horizontal)
     
 - **남는 공간을 특정 뷰가 먹도록(늘어남)**:  
     그 뷰의 **Hugging을 낮추기**
+
+---
+
+> [[Home]]

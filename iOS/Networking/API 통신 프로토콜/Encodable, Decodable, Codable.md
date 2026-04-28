@@ -298,3 +298,7 @@ print(createdUser.name) // "Heebo"
     - 응답 모델 = `Decodable` 
 - **회원가입 API (요청/응답 구조 동일)**
     - 하나의 모델을 `Codable`로 정의해 양쪽 다 사용
+
+---
+
+> [[iOS 학습 인덱스]]

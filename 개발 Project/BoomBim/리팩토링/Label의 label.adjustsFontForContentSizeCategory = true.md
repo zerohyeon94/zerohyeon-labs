@@ -68,3 +68,7 @@ label.adjustsFontForContentSizeCategory = true
 ```
 
 요약: 이 속성은 **사용자 글자 크기 변경을 자동 반영**하게 만드는 스위치이고, **텍스트 스타일/UIFontMetrics로 스케일된 폰트**를 사용할 때 제대로 동작합니다.
+
+---
+
+> [[Home]]

@@ -28,3 +28,8 @@
 |`MainViewController`|숫자를 증가시키고 `.counterUpdated` Notification을 **post**|
 |`LoggerViewController`|`.counterUpdated` Notification을 **수신(addObserver)** 하여 로그 표시|
 |`RootTabBarController`|두 VC를 탭바로 묶어 쉽게 화면 전환 가능하게 구성|
+
+
+---
+
+> [[iOS 학습 인덱스]]

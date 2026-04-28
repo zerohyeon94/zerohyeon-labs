@@ -66,3 +66,7 @@ A Boolean value indicating whether this character represents a hexadecimal digit
 [`var hexDigitValue: Int?`](https://developer.apple.com/documentation/swift/character/hexdigitvalue)
 
 The numeric value this character represents, if it is a hexadecimal digit.
+
+---
+
+> [[iOS 학습 인덱스]]

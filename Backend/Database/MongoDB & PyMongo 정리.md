@@ -192,3 +192,7 @@ temp_movies.drop()
 
 print("컬렉션 삭제 후 : ", 'temp_movies' in db.list_collection_names()) # 결과: drop으로 삭제했기 때문에 False
 ```
+
+---
+
+> [[백엔드 학습 인덱스]]

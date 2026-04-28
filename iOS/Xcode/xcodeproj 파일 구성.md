@@ -126,3 +126,7 @@ Xcode에서 xcodeproj 파일에서 보이는 PROJECT & TARGETS
 
 - `TARGET → Swift Compiler - Language → Swift Language Version`에서 설정한 값이 **우선**
 - 설정 안 돼 있다면 `PROJECT`의 설정을 따름
+
+---
+
+> [[iOS 학습 인덱스]]

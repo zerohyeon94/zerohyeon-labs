@@ -168,3 +168,7 @@ class UserProfileViewController: UIViewController {
 - **MVC**는 빨리 만들 수 있지만, 화면이 복잡해지면 ViewController가 감당할 수 없을 만큼 커집니다.
     
 - **MVVM**은 파일을 나누고 연결하는 작업이 필요하지만, 로직이 분리되어 있어 유지보수와 테스트가 훨씬 유리합니다.
+
+---
+
+> [[iOS 학습 인덱스]]

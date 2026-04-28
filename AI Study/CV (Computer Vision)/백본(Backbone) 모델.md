@@ -84,3 +84,7 @@ resnet.fc = torch.nn.Linear(num_features, 2) # 1000개 -> 2개로 변경
 2. 보통 **ImageNet**으로 미리 학습된(Pre-trained) 백본을 가져와서 사용합니다.
     
 3. **iOS 개발**이 목표시라면 **MobileNet**이나 **EfficientNet-Lite** 같은 **경량화 백본**에 주목해야 합니다. 아이폰 배터리와 발열을 관리하면서 AI를 돌리려면 가벼운 모델이 필수적이기 때문입니다.
+
+---
+
+> [[AI 학습 인덱스]]

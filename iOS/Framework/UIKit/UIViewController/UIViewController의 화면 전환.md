@@ -83,3 +83,7 @@ present(nav, animated: true)
 - 화면 전환 방법은 Push, Present 외에도 TabBar, ChildVC, Segue, Custom Transition 등 다양
     
 - **Modal(present)에서도 NavigationController로 감싸주면 네비게이션 가능**
+
+---
+
+> [[iOS 학습 인덱스]]

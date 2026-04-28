@@ -76,3 +76,7 @@ CocoaPods 없이도 의존성을 다음 중 하나로 처리할 수 있습니다
 | 2   | Xcode에서 Pods 설정 제거 (Build Phases, Build Settings)    |
 | 3   | SPM 또는 수동 `.framework`로 의존성 대체                       |
 | 4   | CocoaPods 없이 `xcodeproj`로 빌드 확인                      |
+
+---
+
+> [[iOS 학습 인덱스]]

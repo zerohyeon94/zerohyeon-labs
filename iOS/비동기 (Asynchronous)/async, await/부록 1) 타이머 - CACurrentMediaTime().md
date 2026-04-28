@@ -31,3 +31,7 @@ let elapsed = CACurrentMediaTime() - startTime
 
 > 📌 시스템 시계(Date, 시간대 등)랑 상관없이,  
 > **애니메이션·성능 측정용**으로 안정적인 타이머를 쓰고 싶을 때 많이 사용합니다.
+
+---
+
+> [[iOS 학습 인덱스]]

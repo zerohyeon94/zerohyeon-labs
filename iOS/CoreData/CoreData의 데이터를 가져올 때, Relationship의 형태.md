@@ -68,3 +68,7 @@ let total = (dailyBudget.spendingRecords as? Set<SpendingRecord> ?? [])
 |as? Set<...>|Set|타입 안전 변환, 실패시 빈 Set|
 |compactMap|[Int]|nil 없이 Int만 추출|
 |reduce|Int|모든 Int 합산 (합계)|
+
+---
+
+> [[iOS 학습 인덱스]]

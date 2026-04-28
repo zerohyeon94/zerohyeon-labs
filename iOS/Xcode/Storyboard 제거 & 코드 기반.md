@@ -70,3 +70,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 |AppDelegate에서 window 설정|✅|
 |SceneDelegate 사용 여부 결정 (가능하면 삭제)|✅|
 |빌드 & 실행 후 화면 정상 표시 확인||
+
+---
+
+> [[iOS 학습 인덱스]]

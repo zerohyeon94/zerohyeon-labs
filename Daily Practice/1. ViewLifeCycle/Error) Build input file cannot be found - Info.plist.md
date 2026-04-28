@@ -86,3 +86,8 @@ $(SRCROOT)/ViewLifeCycle/ViewLifeCycle/Info.plist
 |Info.plist 경로에 파일 없음|새로 만들거나 복원|
 |파일은 있으나 Xcode에 없음|프로젝트에 파일 추가|
 |경로 잘못 지정됨|Build Settings > Info.plist 경로 수정|
+
+
+---
+
+> [[iOS 학습 인덱스]]

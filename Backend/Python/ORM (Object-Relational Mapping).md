@@ -156,3 +156,7 @@ print(user.name, user.age)
 
 > ORM = **Object-Relational Mapping**  
 > → “DB 테이블을 코드의 클래스/객체로 매핑해서, SQL 대신 객체를 가지고 DB를 다루게 해주는 라이브러리/패턴”
+
+---
+
+> [[백엔드 학습 인덱스]]

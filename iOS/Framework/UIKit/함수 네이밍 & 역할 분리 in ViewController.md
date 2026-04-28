@@ -129,3 +129,7 @@ private func configureTextViews() {
 - Clean Code의 "작은 함수"
     
 - Swift API Design Guidelines의 Naming (https://www.swift.org/documentation/api-design-guidelines/)
+
+---
+
+> [[iOS 학습 인덱스]]

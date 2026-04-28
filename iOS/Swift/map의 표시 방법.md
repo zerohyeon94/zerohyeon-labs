@@ -53,3 +53,7 @@ let users = names.map(User.init) // == names.map { User(name: $0) }
 
 이처럼 `map(Type.init)`은 Swift의 **함수형 문법 축약 표현** 중 하나로 매우 유용합니다.  
 코드가 더 읽기 쉽고 간결해지는 장점이 있습니다.
+
+---
+
+> [[iOS 학습 인덱스]]

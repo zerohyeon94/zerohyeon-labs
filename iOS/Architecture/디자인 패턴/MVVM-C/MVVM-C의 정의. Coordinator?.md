@@ -73,3 +73,7 @@ class SignupCoordinator: Coordinator {
 ```
 
 - ViewModel에서 네비게이션 이벤트 발생 → Coordinator가 이를 감지해 화면 이동 처리
+
+---
+
+> [[iOS 학습 인덱스]]

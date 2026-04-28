@@ -75,3 +75,8 @@ private func showImageWithFadeIn(_ image: UIImage) {
 | `alpha`          | 0은 투명, 1은 불투명 (0~1 사이 실수값)           |
 | 시간               | `withDuration:`을 통해 조절 (ex. 0.3초~5초) |
 | fade-in/fade-out | `alpha` 속성 조작으로 간단히 구현 가능            |
+
+
+---
+
+> [[iOS 학습 인덱스]]

@@ -86,3 +86,7 @@ class MyViewController: UIViewController {
 > 앱의 성능 저하, 강제 종료 등 문제를 유발
 > 
 > Swift/iOS에서는 **순환 참조, Observer 미해제, 타이머 등**이 주 원인
+
+---
+
+> [[iOS 학습 인덱스]]

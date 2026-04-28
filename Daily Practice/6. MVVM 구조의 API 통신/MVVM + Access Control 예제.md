@@ -157,3 +157,8 @@ class UserViewController: UIViewController {
 | `userName`, `userEmail`                               | 외부에서 수정 불가(read-only)를 위해 `private(set)` 사용                                     | ✅ 완벽합니다                              |
 | `fetchUser`                                           | ViewController에서 호출해야 하므로 `public` 또는 `internal` → `internal`로 충분 (같은 모듈 내 접근)  | ✅ 정확합니다                              |
 | `UserViewController`의 `label`, `viewModel`, `setupUI` | 모두 해당 ViewController 내부 전용이므로 `private` 사용                                      | ✅ 설계 의도 완벽 이해                        |
+
+
+---
+
+> [[iOS 학습 인덱스]]

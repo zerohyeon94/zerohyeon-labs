@@ -82,3 +82,7 @@ AF.request(
 - iOS/Android 협업/공통 API 개발 땐 JSONEncoding이 대세
     
 - 예외: 결제, 인증 등 오래된 API는 URLEncoding 요구하는 경우 있음
+
+---
+
+> [[iOS 학습 인덱스]]

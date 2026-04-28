@@ -73,3 +73,7 @@ var cancellables = Set<AnyCancellable>()
 |**에러 없는 단일 데이터**|`Relay` (RxRelay)|`CurrentValueSubject`, `PassthroughSubject`|
 
 > **요약:** 현재 유지보수 중인 레거시 프로젝트나 iOS 13 미만을 지원해야 한다면 **RxSwift**가 필수적입니다. 반면, 최소 타겟이 iOS 13 이상이고 SwiftUI를 주력으로 사용하는 새로운 프로젝트라면 Apple의 네이티브 프레임워크인 **Combine**을 선택하는 것이 더 효율적인 방향입니다.
+
+---
+
+> [[iOS 학습 인덱스]]

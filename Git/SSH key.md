@@ -121,3 +121,8 @@ git push      # 🔼 패스워드 없이 자동
 |⑤|`~/.ssh/config`로 자동 인증 설정|
 |⑥|`ssh -T`로 연결 테스트|
 |⑦|GitHub 비밀번호 없이 `push/pull` 성공 ✅|
+
+
+---
+
+> [[Home]]

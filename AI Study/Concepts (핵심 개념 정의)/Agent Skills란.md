@@ -28,3 +28,7 @@
 3. **Execution:** `get_weather("Seoul", "tomorrow")`를 실행.
     
 4. **Result:** 결과를 받아 사용자에게 답변 생성.
+
+---
+
+> [[AI 학습 인덱스]]

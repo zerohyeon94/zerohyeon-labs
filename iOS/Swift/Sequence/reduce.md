@@ -72,3 +72,7 @@ If the sequence has no elements, `nextPartialResult` is never executed and `i
 > [!NOTE] Complexity
 > 
 > O(_n_), where _n_ is the length of the sequence.
+
+---
+
+> [[iOS 학습 인덱스]]

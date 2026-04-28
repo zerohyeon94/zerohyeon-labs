@@ -1,5 +1,6 @@
 # On-device AI 개요
 
+> [[Home]] > [[AI 학습 인덱스]] > On-device AI
 > 작성일: 2026-04-28 | 태그: #AI #CoreML #iOS #OnDeviceAI
 
 ---
@@ -145,3 +146,7 @@ iOS + On-device AI 개발자는 **드문 조합**:
 - [WWDC 2024 - What's new in Core ML](https://developer.apple.com/videos/play/wwdc2024/)
 - [coremltools GitHub](https://github.com/apple/coremltools)
 - [Apple Intelligence 개발자 가이드](https://developer.apple.com/apple-intelligence/)
+
+---
+
+> 연결: [[AI 학습 인덱스]] | [[iOS 학습 인덱스]] | [[Home]]

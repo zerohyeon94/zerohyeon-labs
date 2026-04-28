@@ -90,3 +90,7 @@ struct MyApp: App {
 3. 화면에서 사라질 때 할 일은 **`.onDisappear`**.
     
 4. 앱 상태 변화는 **`scenePhase`**.
+
+---
+
+> [[iOS 학습 인덱스]]

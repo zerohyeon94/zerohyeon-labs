@@ -146,3 +146,7 @@ override func viewDidAppear(_ animated: Bool) {
 - 안내/애니메이션/자연스러움 필요하면 0.2~0.3초 딜레이도 OK
     
 - 필요하다면 조건부 자동 활성화도 고려
+
+---
+
+> [[iOS 학습 인덱스]]

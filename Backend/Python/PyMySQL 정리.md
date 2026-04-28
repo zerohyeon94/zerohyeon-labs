@@ -89,3 +89,7 @@ print(f"환자 이름: {name}, 검사명: {test_name}, 결과: {result}, 검사 
 	DECIMAL(전체자릿수, 소수점_아래_자릿수)
 	```
 	- DECIMAL 타입
+
+---
+
+> [[백엔드 학습 인덱스]]

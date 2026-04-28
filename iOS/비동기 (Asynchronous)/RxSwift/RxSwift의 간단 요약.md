@@ -200,3 +200,7 @@ func transform(input: Input) -> Output {
 - UI 바인딩은 **ControlProperty/ControlEvent**.
     
 - 스레드는 **subscribe(on: BG) → observe(on: Main)**가 기본기.
+
+---
+
+> [[iOS 학습 인덱스]]

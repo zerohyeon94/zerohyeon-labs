@@ -1,5 +1,6 @@
 # CI/CD 개념 정리
 
+> [[Home]] > [[백엔드 학습 인덱스]] > CI-CD
 > 작성일: 2026-04-28 | 태그: #Backend #CICD #GitHubActions #DevOps
 
 ---
@@ -195,3 +196,7 @@ CD에서 서버 접속 정보를 코드에 직접 쓰면 안 된다.
 - [GitHub Actions 공식 문서](https://docs.github.com/en/actions)
 - [GitHub Actions로 FastAPI 배포하기](https://fastapi.tiangolo.com/deployment/docker/)
 - [uv 공식 문서](https://docs.astral.sh/uv/)
+
+---
+
+> 연결: [[백엔드 학습 인덱스]] | [[Home]]

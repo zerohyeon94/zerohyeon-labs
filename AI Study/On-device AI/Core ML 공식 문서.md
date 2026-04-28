@@ -40,3 +40,7 @@ Core ML은 메모리 사용량과 배터리 소모를 최소화하는 동시에 
 Core ML 그 자체는 Metal Performance Shaders(그래픽 처리 가속)뿐만 아니라, Accelerate 및 BNNS와 같은 저수준 기반 요소(Low-level primitives)들 위에서 작동하도록 설계되었습니다.
 
 ![[Pasted image 20260428205320.png]]
+
+---
+
+> [[AI 학습 인덱스]]

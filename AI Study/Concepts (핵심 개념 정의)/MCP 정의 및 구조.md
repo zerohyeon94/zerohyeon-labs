@@ -31,3 +31,8 @@ graph LR
     D --> F[(Local Drive)]
     E --> G[(SQL DB)]
 ```
+
+
+---
+
+> [[AI 학습 인덱스]]

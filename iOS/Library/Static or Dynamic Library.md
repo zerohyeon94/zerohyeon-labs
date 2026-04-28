@@ -163,3 +163,7 @@
 - Dynamic Library
 
 - 여러 앱에서 공통으로 쓰거나 외부 파트너에게도 SDK를 줄 수 있기 때문에 Dynamic SDK 구조를 유지
+
+---
+
+> [[iOS 학습 인덱스]]

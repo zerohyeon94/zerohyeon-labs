@@ -51,3 +51,7 @@
 - **셀 전체 배경(컨테이너)** 을 바꾸고 싶다 → `cell.backgroundColor`
     
 - **컨텐츠 영역(내가 그린 UI 영역)** 을 바꾸고 싶다 → `contentView.backgroundColor` (가장 흔함)
+
+---
+
+> [[iOS 학습 인덱스]]

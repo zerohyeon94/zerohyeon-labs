@@ -122,3 +122,7 @@
 |**Forward Secrecy(ECDHE)**|과거 세션 보호|**Cipher** 이름에 **ECDHE** 포함|
 |**SHA-256**|인증서/서명 해시|인증서의 **Signature Algorithm: …SHA256…**|
 |**RSA 2048 / EC 256+**|인증서의 공개키 유형/강도|인증서의 **Public Key Algorithm**과 **키 길이**|
+
+---
+
+> [[iOS 학습 인덱스]]

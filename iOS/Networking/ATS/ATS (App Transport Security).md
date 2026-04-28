@@ -142,3 +142,7 @@ ATS는 iOS/macOS에서 **HTTP 기반 네트워킹을 기본적으로 HTTPS(TLS)*
 - **로컬 네트워킹 허용**: `NSAllowsLocalNetworking` [Apple Developer](https://developer.apple.com/documentation/bundleresources/information-property-list/nsapptransportsecurity/nsallowslocalnetworking?utm_source=chatgpt.com)
     
 - **진단**: `/usr/bin/nscurl --ats-diagnostics <URL>` [Apple Developer](https://developer.apple.com/documentation/security/identifying-the-source-of-blocked-connections?utm_source=chatgpt.com)
+
+---
+
+> [[iOS 학습 인덱스]]

@@ -76,3 +76,7 @@ class DataManager {
 질문 주신 변경 사항은 **"불필요한 코드를 줄이는(Boilerplate reduction)"** 아주 좋은 습관입니다. 
 * **변경 전:** 실제 저장소(`_mlService`)와 보여주기용 창문(`mlService`)을 따로 만들었습니다. 
 * **변경 후:** `mlService`라는 창문에 **"밖에서는 눈으로만 보세요(Read-only), 직원은 안에서 만질 수 있습니다"**라는 팻말(`private(set)`)을 붙인 것과 같습니다.
+
+---
+
+> [[iOS 학습 인덱스]]
