@@ -1,3 +1,5 @@
+> [[iOS 인터뷰 인덱스]] | [[iOS 학습 인덱스]]
+
 ### 1. iOS 앱의 생명 주기(App Lifecycle)에 대해 설명해주세요.
 답변: iOS 앱의 상태는 크게 Not Running, Inactive, Active, Background, Suspended로 나뉩니다. 사용자가 앱을 실행하면 Inactive를 거쳐 Active 상태가 되어 이벤트를 받을 수 있습니다. 홈 버튼을 누르거나 다른 앱으로 전환하면 Background 상태로 들어가며, 여기서 추가 작업이 없으면 곧바로 메모리에만 유지되는 Suspended 상태로 전환됩니다.
 [참고 블로그](https://velog.io/@ahneve/iOSSwift-%EC%95%B1%EC%9D%98-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0-Apps-life-cycle)
@@ -39,3 +41,5 @@
 ### 10. MVC 패턴과 MVVM 패턴의 차이점에 대해 설명해주세요. 
 답변: MVC는 Model, View, Controller로 구성되며, Controller가 View와 Model 사이의 중재자 역할을 합니다. iOS에서는 ViewController가 View의 역할까지 일부 떠안아 코드가 비대해지는 단점이 있습니다. MVVM은 Model, View, ViewModel로 구성되며, View는 ViewModel의 상태를 관찰하여 UI를 갱신합니다. 이를 통해 View와 비즈니스 로직을 철저히 분리하고 테스트 용이성을 높일 수 있습니다.
 [MVC와 MVVMd의 구조](https://velog.io/@eugenieseo16/CS4)
+> [[iOS 학습 인덱스#아키텍처]]
+> [[CS 학습 인덱스]]

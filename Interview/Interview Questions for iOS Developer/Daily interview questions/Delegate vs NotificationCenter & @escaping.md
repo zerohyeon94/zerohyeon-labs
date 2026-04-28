@@ -1,3 +1,5 @@
+> [[iOS 인터뷰 인덱스]] | [[iOS 학습 인덱스]]
+
 ### **[복습] Delegate 패턴과 NotificationCenter의 차이점과 각각의 장단점을 설명해주세요.**
 
 **답변:** Delegate 패턴은 주로 1:1 통신에 사용되며 프로토콜을 통해 요구사항이 명확히 정의되어 흐름 추적이 쉽지만, 객체 간 결합도가 생길 수 있습니다. 반면 NotificationCenter는 1:N 통신이 가능하여 여러 객체에 동시에 이벤트를 알릴 때 유리하며 결합도가 낮습니다. 하지만 이벤트의 출처나 흐름을 추적하기 어려워 디버깅이 까다로울 수 있습니다.
@@ -37,3 +39,4 @@
 ### 디자인 패턴 중 옵저버 패턴(Observer Pattern)은 무엇이며, iOS에서는 어떻게 구현할 수 있나요?
 
 객체의 상태 변화가 발생했을 때, 이를 관찰하고 있는(구독하는) 다른 객체들에게 자동으로 알림을 보내는 패턴입니다. iOS에서는 기존의 NotificationCenter나 KVO(Key-Value Observing)를 통해 구현해왔으며, 최근에는 Combine 프레임워크의 Publisher-Subscriber 모델이나 SwiftUI의 `@State`, `ObservableObject` 등을 통해 매우 직관적으로 구현할 수 있습니다
+> [[CS 학습 인덱스]]
