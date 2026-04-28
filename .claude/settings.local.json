@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude *)",
+      "Bash(chmod +x *)",
+      "Bash(bash *)",
+      "Bash(crontab *)",
+      "Bash(mv '/Users/joyeonghyeon/Documents/Develop/StepUp/zerohyeon-labs/Interview/Daily iOS Conversations/*' /Users/joyeonghyeon/Documents/Develop/StepUp/zerohyeon-labs/Conversations/iOS/)",
+      "Bash(mv '/Users/joyeonghyeon/Documents/Develop/StepUp/zerohyeon-labs/Interview/Daily Full Stack Conversations/*' '/Users/joyeonghyeon/Documents/Develop/StepUp/zerohyeon-labs/Conversations/Full Stack/')",
+      "Bash(mv '/Users/joyeonghyeon/Documents/Develop/StepUp/zerohyeon-labs/Interview/Daily AI Conversations/*' /Users/joyeonghyeon/Documents/Develop/StepUp/zerohyeon-labs/Conversations/AI/)",
+      "Bash(mv '/Users/joyeonghyeon/Documents/Develop/StepUp/zerohyeon-labs/Interview/Daily Python Conversations/*' /Users/joyeonghyeon/Documents/Develop/StepUp/zerohyeon-labs/Conversations/Python/)",
+      "Bash(mv '/Users/joyeonghyeon/Documents/Develop/StepUp/zerohyeon-labs/*.png' /Users/joyeonghyeon/Documents/Develop/StepUp/zerohyeon-labs/Assets/)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(awk '{print $2}')"
+    ]
+  }
+}
