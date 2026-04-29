@@ -12,7 +12,9 @@
       "Bash(mv '/Users/joyeonghyeon/Documents/Develop/StepUp/zerohyeon-labs/*.png' /Users/joyeonghyeon/Documents/Develop/StepUp/zerohyeon-labs/Assets/)",
       "Bash(git add *)",
       "Bash(git commit -m ' *)",
-      "Bash(awk '{print $2}')"
+      "Bash(awk '{print $2}')",
+      "Bash(xargs -I {} basename {} .md)",
+      "Bash(grep -E \"^[0-9]{4}\\\\.[0-9]{2}\\\\.[0-9]{2}$\")"
     ]
   }
 }
