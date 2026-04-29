@@ -39,6 +39,10 @@
 - [[폴링 (Polling)]]
 - [[SSE (Server-Sent Events)]]
 
+## Git & 버전 관리
+
+- [[Git 병합 전략 - merge vs squash vs rebase]] ← merge / squash / rebase 비교
+
 ---
 
 ## 연결된 학습 영역

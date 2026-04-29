@@ -126,3 +126,4 @@ git push      # 🔼 패스워드 없이 자동
 ---
 
 > [[Home]]
+> [[Git 병합 전략 - merge vs squash vs rebase]] | [[CS 학습 인덱스]]

@@ -6,7 +6,7 @@
 
 ## 📅 Daily
 
-> 오늘: [[2026-04-28|📅 2026-04-28]]
+> 오늘: [[2026-04-29|📅 2026-04-29]]
 
 - [[Weekly/|📋 주간 회고 모음]]
 - [[Schedule/단기 목표/|🎯 단기 목표]]
@@ -16,6 +16,7 @@
 
 ## 🛠️ 진행 중인 프로젝트
 
+- [[Zero-Alpha-Beta 개요]] — macOS AI 비서 (Electron + Claude API) ← 신규
 - [[개발 Project/일일 예산 관리 앱/0. 기획/0. 앱 기획서 - 일일 예산 관리 앱|일일 예산 관리 앱]]
 - [[개발 Project/BoomBim/개발 중 궁금증/JWT - JSON Web Token|BoomBim]]
 - [[개발 Project/Haru Up/Observable vs PublishSubject|Haru Up]]
@@ -46,6 +47,9 @@
 - [[CS 학습 인덱스]]
 - [[CS (Computer Science)/|CS 전체]]
 
+### Git
+- [[Git 병합 전략 - merge vs squash vs rebase]]
+
 ---
 
 ## 💬 학습 대화 기록
@@ -61,3 +65,4 @@
 - [[Career/방향 탐색/|진로 탐색]]
 - [[Career/포트폴리오/|포트폴리오]]
 - [[Blog/초안/|블로그 초안]]
+  - [[On-device AI vs Cloud AI - 헬스케어 앱 개발자가 알아야 할 차이]] ← 작성 중
