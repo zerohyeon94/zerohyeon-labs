@@ -90,4 +90,4 @@ swift
 
 ---
 
-> [[iOS 학습 인덱스]]
+> [[iOS 학습 인덱스]] | [[Task & @MainActor - UI 업데이트 타이밍]] | [[GCD (Grand Central Dispatch)]]

@@ -11,6 +11,7 @@
 - [[📘 11. 메모리 관리 & ARC (Automatic Reference Counting)|ARC & 메모리 관리]]
 - [[동시성 Concurrency|Swift Concurrency]]
 - [[GCD (Grand Central Dispatch)|GCD]]
+- [[Task & @MainActor - UI 업데이트 타이밍]] ← SwiftUI UI 업데이트 타이밍 제어
 - [[비동기 (Asynchronous)/|비동기 전체]]
 
 ## 아키텍처
@@ -46,7 +47,7 @@
 ## On-device AI (iOS)
 
 - [[On-device AI 개요]] ← AI Study와 연결
-- `Conversations/iOS/2026.03.04/` — CoreML & Vision 실전 적용
+- [[Conversations/iOS/CoreML & Vision Framework/]] — CoreML & Vision 실전 적용
 
 ---
 
