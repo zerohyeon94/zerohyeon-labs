@@ -44,6 +44,10 @@
 
 - [[iOS 인터뷰 인덱스]] ← 일일 면접 복습 Q&A 모음
 
+## AVFoundation
+
+- [[AVCaptureSession - 세션 생명주기와 성능 최적화]] ← 카메라 세션 제어, 성능 최적화
+
 ## On-device AI (iOS)
 
 - [[On-device AI 개요]] ← AI Study와 연결
