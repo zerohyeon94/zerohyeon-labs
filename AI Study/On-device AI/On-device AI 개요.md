@@ -103,12 +103,12 @@ Xcode 프로젝트에 추가 → iOS 앱에서 사용
 
 ## 5. 성능 최적화 포인트
 
-| 기법 | 설명 | 효과 |
-|------|------|------|
-| 양자화 (Quantization) | 가중치를 float32 → int8으로 압축 | 모델 크기 ↓, 속도 ↑ |
-| 프루닝 (Pruning) | 덜 중요한 가중치 제거 | 모델 크기 ↓ |
-| Neural Engine 활용 | `computeUnits: .all` 설정 | Apple ANE 우선 사용 → 저전력 |
-| 배치 추론 | 여러 프레임 묶어서 처리 | 처리량 ↑ |
+| 기법                 | 설명                       | 효과                    |
+| ------------------ | ------------------------ | --------------------- |
+| 양자화 (Quantization) | 가중치를 float32 → int8으로 압축 | 모델 크기 ↓, 속도 ↑         |
+| 프루닝 (Pruning)      | 덜 중요한 가중치 제거             | 모델 크기 ↓               |
+| Neural Engine 활용   | `computeUnits: .all` 설정  | Apple ANE 우선 사용 → 저전력 |
+| 배치 추론              | 여러 프레임 묶어서 처리            | 처리량 ↑                 |
 
 ```swift
 let config = MLModelConfiguration()
