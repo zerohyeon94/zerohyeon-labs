@@ -1,16 +1,18 @@
 # 🏠 zerohyeon's Learning Hub
 
-> [[Profile|👤 내 프로필 & 목표]] | [[CLAUDE|⚙️ 시스템 지침]]
+> [[Profile|👤 내 프로필 & 목표]] | [[AGENTS|⚙️ Codex 시스템 지침]]
 
 ---
 
 ## 📅 Daily
 
-> 오늘: [[2026-05-04|📅 2026-05-04]]
+> 오늘: [[2026-05-17|📅 2026-05-17]]
 
 - [[Weekly/|📋 주간 회고 모음]]
 - [[Schedule/단기 목표/|🎯 단기 목표]]
 - [[Schedule/장기 로드맵/|🗺️ 장기 로드맵]]
+- [[Schedule/근무 후 학습 루틴|🕰️ 근무 후 학습 루틴]]
+- [[Schedule/수강생 과제 피드백 루틴|🧑‍🏫 수강생 과제 피드백 루틴]]
 
 ---
 
@@ -54,9 +56,12 @@
 
 ## 💬 학습 대화 기록
 
-- [[Conversations/iOS/|iOS 대화]]
-- [[Conversations/Full Stack/|Full Stack 대화]]
-- [[Conversations/AI/|AI 대화]]
+- [[Conversations/iOS Mentoring/Mentoring_Note|iOS Mentoring]]
+- [[Conversations/Swift Study/Study_Note|Swift Study]]
+- [[Conversations/Mobile Mentoring/Mentoring_Note|Mobile Mentoring]]
+- [[Conversations/AI Mentoring/Mentoring_Note|AI Mentoring]]
+- [[Conversations/Backend Mentoring/Mentoring_Note|Backend Mentoring]]
+- [[Conversations/Python Study/Study_Note|Python Study]]
 
 ---
 

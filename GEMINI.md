@@ -1,5 +1,8 @@
 # zerohyeon-labs 학습 시스템 지침 (Gemini CLI)
 
+> Legacy note: 현재 운영 기준은 `AGENTS.md`와 `Profile.md`다.
+> 이 파일은 Gemini CLI로 운영하던 시기의 기록으로 보존한다.
+
 > 사용자 상세 프로필: `Profile.md` 참고
 
 ## 개요
