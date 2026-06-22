@@ -1,6 +1,6 @@
 # Zero-Alpha-Beta 개요
 
-> [[Home]] > 개발 Project > Zero-Alpha-Beta
+> [[Home]] > [[Projects/프로젝트 인덱스|Projects]] > Zero-Alpha-Beta
 > 태그: #프로젝트 #Electron #ClaudeAPI #AI #TypeScript
 
 ---

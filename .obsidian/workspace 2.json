@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "3ee0c4559a7dedd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d46f2930f9f8035a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f019b708d48e9e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conversations/Backend Mentoring/Go/하루업 Railway 배포 후 API 계약 정리/1. Railway staging 배포 상태와 서비스 구성 읽기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Railway staging 배포 상태와 서비스 구성 읽기"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f7922d232dd2e15",
+    "type": "split",
+    "children": [
+      {
+        "id": "d380817a07ed9edb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db22d84c926136a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "99daebf82f52fe78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "b3f1e4757b2b1fe0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5
+  },
+  "right": {
+    "id": "64989fc5cecb7b0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d758e8ef4a0643ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dba4a1b28105fd4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "de18181258816343",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "a056530da90bb293",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "bd2a9413c19306e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI Study/Concepts (핵심 개념 정의)/RAG 개념 및 구조.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "RAG 개념 및 구조 의 개요"
+            }
+          },
+          {
+            "id": "b319e9e77284f53f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
+            }
+          },
+          {
+            "id": "32b4907f958ccd20",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
+            }
+          },
+          {
+            "id": "2208aae9df9de0fd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false,
+      "claudian:Open Claudian": false
+    }
+  },
+  "active": "8f019b708d48e9e0",
+  "lastOpenFiles": [
+    "Conversations/Backend Mentoring/Go/ZipJoong Go 서버 첫 실행 범위/2. focus_sessions API 계약과 계층 책임 정하기.md",
+    "Daily/2026-06-22.md",
+    "무제.base",
+    "Daily/2026-06-21.md",
+    "Daily/2026-06-20.md",
+    "Daily/2026-06-19.md",
+    "Conversations/iOS Mentoring/하루업 배포 전 회귀 확인/1. Amplitude 이벤트와 캘린더 재진입 회귀 확인.md",
+    "Conversations/iOS Mentoring/하루업 배포 전 회귀 확인",
+    "Daily/2026-06-18.md",
+    "Daily/2026-06-17.md",
+    "Conversations/iOS Mentoring/하루업 iOS Amplitude 적용 범위/1. Amplitude 적용 화면 확정.md",
+    "Daily/2026-06-16.md",
+    "Conversations/iOS Mentoring/하루업 iOS Amplitude 적용 범위",
+    "Projects/Haru Up/2026-06-15 하루업 빠른 배포 우선순위 답변.md",
+    "Conversations/Backend Mentoring/Go/ZipJoong Go 서버 첫 실행 범위/1. Go API와 PostgreSQL 첫 연결 범위 정하기.md",
+    "Conversations/Backend Mentoring/Go/ZipJoong Go 서버 첫 실행 범위",
+    "Conversations/Frontend Mentoring/React/ZipJoong 대시보드 첫 실행 범위/1. Go API와 React 대시보드 연결 범위 정하기.md",
+    "Daily/2026-06-15.md",
+    "Conversations/Frontend Mentoring/React/ZipJoong 대시보드 첫 실행 범위",
+    "Conversations/Frontend Mentoring/React",
+    "Conversations/Frontend Mentoring",
+    "Conversations/Backend Mentoring/Go/하루업 API 정상 동작 확인과 iOS 수정 범위 정리/1. API 정상 확인과 iOS 수정 범위 나누기.md",
+    "Conversations/Backend Mentoring/Go/하루업 API 정상 동작 확인과 iOS 수정 범위 정리",
+    "Projects/프로젝트-학습 진행 현황.md",
+    "Daily/2026-06-14.md",
+    "Daily/2026-06-13.md",
+    "Conversations/Agent 운영/AGENTS와 Daily 운영 개선/1. Agent 운영 개선 기준 정리.md",
+    "Projects/Agent 운영 개선 계획.md",
+    "Conversations/Agent 운영/AGENTS와 Daily 운영 개선",
+    "Conversations/Agent 운영",
+    "Daily/2026-06-12.md",
+    "Conversations/Backend Mentoring/Go/하루업 Railway 배포 후 API 계약 정리/3. 실제 사용 API 계약 5개 이하로 정리하기.md",
+    "Conversations/Backend Mentoring/Go/하루업 Railway 배포 후 API 계약 정리/2. Go와 React 개발환경 빠른 점검.md",
+    "Projects/Haru Up/2026-06-11 하루업 iOS 백엔드 회의.md",
+    "Conversations/Backend Mentoring/Go/하루업 Railway 배포 후 API 계약 정리/1-1. Railway staging 서비스 구성과 API 계약 읽는 순서 답변.md",
+    "Daily/2026-06-11.md",
+    "Assets/스크린샷 2026-02-20 오후 4.29.24.png",
+    "Assets/Object_Lifecycle_States.png",
+    "Assets/Inline_vs_SideTable_Detailed.png",
+    "Assets/ARC_RetainCycle_Fix.png",
+    "Assets/ARC_SideTable_Detailed.png",
+    "Assets/ARC_Basics_Concept.png",
+    "Assets/Pasted image 20260507151938.png",
+    "Assets/Pasted image 20260507142038.png",
+    "Assets/Pasted image 20260501004703.png",
+    "Assets/Pasted image 20260430182335.png",
+    "무제 1.canvas",
+    "무제.canvas"
+  ]
+}

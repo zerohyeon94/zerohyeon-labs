@@ -1,7 +1,7 @@
 # Railway 개념 정리
 
 > 분야: Backend / Infra
-> 관련 프로젝트: [[개발 Project/Haru Up/2026-06-06 백엔드 서버 업로드 검토 회의]]
+> 관련 프로젝트: [[Projects/Haru Up/2026-06-06 백엔드 서버 업로드 검토 회의]]
 > 비교 대상: [[Backend/AWS/AWS 개념 정리]] / [[Backend/AWS/Amazon Lightsail 개념 정리]] / [[Backend/AWS/Amazon EC2 개념 정리]]
 
 ## 한 줄 정의
