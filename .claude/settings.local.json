@@ -18,7 +18,8 @@
       "WebSearch",
       "Bash(git -C /Users/joyeonghyeon/Documents/Develop/StepUp/zerohyeon-labs diff HEAD --name-only)",
       "Bash(git -C /Users/joyeonghyeon/Documents/Develop/StepUp/zerohyeon-labs status)",
-      "Bash(git *)"
+      "Bash(git *)",
+      "Bash(awk '{print $1}')"
     ]
   }
 }
